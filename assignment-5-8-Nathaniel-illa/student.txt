@@ -1,0 +1,6 @@
+5
+Kathy  100  90
+Mary 100 100
+Hammond 100  90
+Maxine  90 90
+Heather  100 90
